@@ -13,7 +13,7 @@ const Refresh = () => {
         </p>
       </div>
       <h2>
-        Dharma has your back
+        Dharma has your back.
         </h2>
       <p>
         If you ever lose access to your device, Dharma can reset your key for you – but only after a 7-day security period.

@@ -12,6 +12,12 @@
   margin: 1.375rem;
   color: #627898;
   opacity: 0.8;
+  transition: 0.2s ease;
+}
+
+.Footer button:hover {
+  color: #1f2a4b;
+  opacity: 1;
 }
 
 .FooterText {
